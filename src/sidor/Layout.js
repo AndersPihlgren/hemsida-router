@@ -6,7 +6,7 @@ const Layout = () => {
       <nav>
         <ul>
           <li>
-            <Link to="/">Start</Link>
+            <Link to="/">Hem</Link>
           </li>
           <li>
             <Link to="/Tjanster">Våra städtjänster</Link>
